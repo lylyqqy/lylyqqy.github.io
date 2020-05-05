@@ -9,8 +9,8 @@ document.addEventListener("DOMContentLoaded", function() {
       {
         name: "You're My Star",
         artist: "秀智",
-        url: "music/You're My Star.mp3",
-        cover: "img/00.png",
+        url: "/music/You're My Star.mp3",
+        cover: "/img/00.png",
       },
     ],
   });
