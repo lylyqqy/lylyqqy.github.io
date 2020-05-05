@@ -1840,6 +1840,23 @@ td {
 .progress-circle-container {
   position: absolute;
 }
+#comment {
+  margin: 0 1rem;
+  padding: 1rem;
+  background-color: #fff;
+}
+@media screen and (max-width: 768px) {
+  #comment {
+    margin: 0;
+  }
+}
+.comment-tooltip {
+  font-size: 0.8rem;
+  color: #303133;
+}
+#github-issues {
+  margin: 1rem;
+}
 #say {
   display: block;
   text-align: center;
